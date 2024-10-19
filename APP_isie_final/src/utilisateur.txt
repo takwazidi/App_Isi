@@ -1,0 +1,4 @@
+aziz souissi tunisie 11152252 1 1 1970 aziz 123 1 Administrateur ariana 1 -1 
+b b b b 1 1 1970 b b 1 Electeur b 1 -1 
+i i i c 1 1 1970 i i 0 Agent_de_bureau_de_vote c 1 -1 
+e e  11344567 4 1 1974 a e 15 Electeur a 2 -1 
