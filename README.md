@@ -1,23 +1,17 @@
 # App_Isi
-Description du projet : Application de gestion des élections municipales
+🗳️ Municipal Election Management Application
+This project involves developing a desktop application for managing municipal elections. The goal is to streamline and automate election-related processes, offering features such as:
 
-Ce projet consiste en le développement d'une application de bureau dédiée à la gestion des élections municipales. L'application vise à simplifier et à automatiser les processus associés aux élections, en offrant des fonctionnalités telles que :
+✏️ Voter Management
+Register, update, and view voter information.
+🗓️ Election Planning
+Create and manage electoral calendars, including voting dates and campaign periods.
+📋 Candidacy Tracking
+Manage candidate applications, verify documents, and monitor candidate status.
+📊 Reports and Statistics
+Generate detailed reports on voter participation, election results, and other key metrics.
+💻 User-Friendly Interface
+Design an intuitive interface to facilitate usage by administrators and electoral officers.
+This application aims to enhance the transparency and efficiency of electoral processes while ensuring compliance with current regulations.
 
-Gestion des électeurs : Enregistrement, mise à jour et consultation des informations des électeurs.
-
-
-Planification des élections : Création et gestion des calendriers électoraux, y compris les dates de vote et les périodes de campagne.
-
-
-Suivi des candidatures : Gestion des candidatures, vérification des documents et suivi du statut des candidats.
-
-
-Rapports et statistiques : Génération de rapports détaillés sur la participation électorale, les résultats des élections et d'autres métriques importantes.
-
-
-Interface utilisateur intuitive : Conception d'une interface conviviale pour faciliter l'utilisation par les administrateurs et les agents électoraux.
-
-
-
-Cette application a pour objectif d'améliorer la transparence et l'efficacité des processus électoraux, tout en garantissant la conformité avec les réglementations en vigueur.
 
